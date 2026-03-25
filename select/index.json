@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ネバギバ！生きろ",
   "base_artist": "≒JOY",
-  "createdAt": "2025-12-23T16:59:42.328165Z",
+  "createdAt": "2026-03-25T07:51:39.821437Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "≒JOY",
       "has_synced": false,
       "path": "select/pl_01_ネバギバ!生きろ_≒JOY.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ネバギバ！生きろ",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/localdb_01_ネバギバ!生きろ_≒JOY.txt",
+      "repo_name": "PHK6IUivfBo"
     }
   ]
 }
